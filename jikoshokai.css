@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(255 255 224);
+    margin:0 auto;
+    width: 50%;
+    font-family: "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu Gothic", メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
+}
+
+h1{
+    background-color: paleturquoise;
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.contents{
+    height: 70%;
+    text-align: center;
+}
+
+.ryakureki{
+    text-align: center;
+    font-size: large;
+    margin: 20px;
+    background-color: paleturquoise;
+    padding: 10px;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.history{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-family: HGP創英角ﾎﾟｯﾌﾟ体;
+}
+
+.history ul{
+    font-size: 13px;
+    background-color: paleturquoise;
+    list-style-type: "\1F44D";  
+}
+
+.shumitokugi{
+    text-align: center;
+    font-size: large;
+    margin: 20px;
+    background-color: paleturquoise;
+    padding: 10px;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.name2{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-family: HGP創英角ﾎﾟｯﾌﾟ体;
+}
